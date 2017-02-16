@@ -18,3 +18,6 @@ NGINX_VERSION 1.8.1-1.el7.ngx
 
 Log into your Layershift Jelastic [Dashboard Panel](https://app.j.layershift.co.uk) and search for *Odoo* in Marketplace.
 
+# LICENSE
+
+Licensed under GNU LGPLv3
